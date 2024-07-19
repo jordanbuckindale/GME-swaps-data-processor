@@ -1,9 +1,9 @@
 # %% download all data
+#------------------------------------------------
 # Jordan Buckindale
 # Date: July 17
-#------------------------------------------------
-# The script performs the following tasks:
 #
+# The script performs the following tasks:
 # - Initializes a start date.
 # - Iterates through each day from the start date to the current date.
 # - Constructs a URL based on the date to download a ZIP file containing cumulative equity reports.
